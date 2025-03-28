@@ -1,0 +1,8 @@
+__title__ = "azuresql"
+__description__ = "A Python Library for managing Azure SQL Servers and Databases."
+__url__ = "https://github.com/swhoyle/azuresql"
+__version__ = "0.0.0"
+__author__ = "Spencer Hoyle"
+__author_email__ = "spencer.w.hoyle@gmail.com"
+__license__ = "MIT"
+__copyright__ = "Copyright 2024 Spencer Hoyle"
