@@ -7,4 +7,4 @@ A Python package for managing Azure SQL Servers and Databases.
 
 ## Installation
 ```bash
-pip install git+https://github.com/andrewvillazon/pbipy
+pip install git+https://github.com/swhoyle/azuresql
